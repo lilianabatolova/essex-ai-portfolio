@@ -65,3 +65,44 @@ body {
   padding-bottom: 8px;
   color: #111827;
 }
+.site-title {
+  font-weight: 600;
+  color: #1e3a8a !important;
+}
+
+.site-nav a {
+  font-weight: 500;
+}
+
+h1, h2, h3 {
+  color: #0f172a;
+}
+
+.card {
+  background: white !important;
+  padding: 28px;
+  border-radius: 18px;
+  border: none !important;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.10);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(15, 23, 42, 0.14);
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: #dbe3ef;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
