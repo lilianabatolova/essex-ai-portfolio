@@ -1,21 +1,16 @@
-![Banner](assets/banner1.png)
+<p>
+<img src="assets/banner1.png" alt="Banner">
+</p>
 
 <div class="hero-card">
-
 <h1>Liliana Batolova-Tonev</h1>
-
-<p class="hero-subtitle">
-MSc Artificial Intelligence e-Portfolio | University of Essex
-</p>
-
+<p class="hero-subtitle">MSc Artificial Intelligence e-Portfolio | University of Essex</p>
 <p>
-This e-Portfolio documents my academic development, practical computing artefacts, reflective learning, and professional growth throughout the MSc Artificial Intelligence programme.
+Agile Lead and AI delivery professional focused on enterprise AI enablement, agile transformation, responsible AI adoption, and operationalising AI at scale.
 </p>
-
 <p>
-My professional focus is on enterprise AI enablement, agile transformation, responsible AI adoption, and the operationalisation of AI at scale.
+This portfolio documents academic development, computing artefacts, reflective learning, and professional growth throughout the MSc Artificial Intelligence programme.
 </p>
-
 </div>
 
 <h2 class="section-title">Portfolio Structure</h2>
@@ -36,7 +31,7 @@ My professional focus is on enterprise AI enablement, agile transformation, resp
 
 <div class="card">
 <h3>Professional Skills Matrix</h3>
-<p>Skills development, evidence tracking, and action planning across the programme.</p>
+<p>Skills development, evidence tracking, and action planning.</p>
 <p><a href="skills-matrix/">Open Section →</a></p>
 </div>
 
@@ -51,13 +46,9 @@ My professional focus is on enterprise AI enablement, agile transformation, resp
 <h2 class="section-title">Current Programme Stage</h2>
 
 <div class="highlight-box">
-
 <p><strong>Stage:</strong> Induction completed / Launch into Computing active</p>
-
-<p><strong>Focus:</strong> Academic orientation, reflective practice, e-Portfolio development, study planning, computing foundations, and preparation for postgraduate AI study.</p>
-
+<p><strong>Focus:</strong> Building academic foundations in computing, reflective practice, and AI study readiness.</p>
 <p><a href="modules/induction/">View Induction Module →</a></p>
-
 </div>
 
 <h2 class="section-title">Development Themes</h2>
@@ -65,29 +56,27 @@ My professional focus is on enterprise AI enablement, agile transformation, resp
 <div class="card-grid">
 
 <div class="card">
-<h3>Technical AI Capability</h3>
-<p>Building stronger foundations in computing, programming, data, and artificial intelligence.</p>
+<h3>Technical Capability</h3>
+<p>Programming, data foundations, and computational thinking.</p>
 </div>
 
 <div class="card">
 <h3>Responsible AI</h3>
-<p>Connecting AI theory with ethics, governance, transparency, and enterprise accountability.</p>
+<p>Ethics, governance, transparency, and organisational accountability.</p>
 </div>
 
 <div class="card">
 <h3>Reflective Practice</h3>
-<p>Using evidence, feedback, and structured reflection to improve academic and professional performance.</p>
+<p>Continuous improvement through structured evidence-based reflection.</p>
 </div>
 
 <div class="card">
 <h3>Professional Impact</h3>
-<p>Translating academic learning into practical AI delivery, enablement, and organisational value.</p>
+<p>Translating academic learning into enterprise AI delivery value.</p>
 </div>
 
 </div>
 
 <div class="quote-box">
-
-Strategic AI leadership requires more than understanding technology at a high level. It requires the ability to connect technical concepts, organisational realities, ethical considerations, and delivery execution.
-
+Strategic AI leadership requires connecting technical concepts, organisational realities, ethics, and delivery execution.
 </div>
