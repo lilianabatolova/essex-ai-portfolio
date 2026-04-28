@@ -14,7 +14,20 @@ body {
 }
 
 .wrapper {
-  max-width: 1100px;
+  max-width: 1300px;
+}
+
+.site-title {
+  font-weight: 600;
+  color: #1e3a8a !important;
+}
+
+.site-nav a {
+  font-weight: 500;
+}
+
+h1, h2, h3 {
+  color: #0f172a;
 }
 
 .hero {
@@ -35,47 +48,18 @@ body {
   max-width: 800px;
 }
 
-.card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 22px;
-  margin-top: 25px;
-}
-
-.card {
-  background: white;
-  padding: 24px;
-  border-radius: 16px;
-  border: 1px solid #e5e7eb;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.06);
-}
-
-.card h3 {
-  margin-top: 0;
-  color: #1e3a8a;
-}
-
-.card a {
-  font-weight: 600;
-}
-
 .section-title {
   margin-top: 45px;
   border-bottom: 2px solid #dbeafe;
   padding-bottom: 8px;
   color: #111827;
 }
-.site-title {
-  font-weight: 600;
-  color: #1e3a8a !important;
-}
 
-.site-nav a {
-  font-weight: 500;
-}
-
-h1, h2, h3 {
-  color: #0f172a;
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 25px;
 }
 
 .card {
@@ -92,6 +76,15 @@ h1, h2, h3 {
   box-shadow: 0 16px 40px rgba(15, 23, 42, 0.14);
 }
 
+.card h3 {
+  margin-top: 0;
+  color: #1e3a8a;
+}
+
+.card a {
+  font-weight: 600;
+}
+
 hr {
   border: none;
   height: 1px;
@@ -106,11 +99,8 @@ a {
 a:hover {
   text-decoration: underline;
 }
-.card-grid {
-  grid-template-columns: repeat(4, 1fr);
-}
 
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
   .card-grid {
     grid-template-columns: repeat(2, 1fr);
   }
