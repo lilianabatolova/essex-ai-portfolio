@@ -49,4 +49,10 @@ My long-term ambition is to operate at the intersection of:
 
 **Artificial Intelligence + Strategy + Delivery + Responsible Adoption**
 
-helping organisations build AI capability that is technically sound, operationally scalable, and ethically grounded.
+helping organisations build AI capability that is technically sound, operationally scalable, and ethically grounded..
+
+---
+
+## Connect
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/liliana-batolova-tonev/)
