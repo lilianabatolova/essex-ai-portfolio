@@ -1,3 +1,9 @@
+---
+layout: page
+title: Modules
+permalink: /modules/
+---
+
 # Modules
 
 This section contains academic work, artefacts, reflections, learning evidence, and professional development captured throughout the MSc Artificial Intelligence programme.
