@@ -1,7 +1,7 @@
 ![Banner](assets/banner1.png)
 
-# Liliana Batolova-Tonev  
-### MSc Artificial Intelligence e-Portfolio  
+# Liliana Batolova-Tonev
+### MSc Artificial Intelligence e-Portfolio
 #### University of Essex
 
 Welcome to my e-Portfolio for the MSc Artificial Intelligence programme at the University of Essex.
@@ -17,33 +17,34 @@ I am an Agile Lead and AI delivery professional focused on enterprise AI enablem
 My goal is to strengthen my technical understanding of Artificial Intelligence while connecting academic learning with real-world enterprise AI delivery, governance, and responsible adoption.
 
 ---
+
 <h2 class="section-title">Portfolio Structure</h2>
 
 <div class="card-grid">
 
-  <div class="card">
-    <h3>About</h3>
-    <p>Professional background, learning goals, and profile.</p>
-    <a href="about/">View About →</a>
-  </div>
+<div class="card">
+<h3>About</h3>
+<p>Professional background, learning goals, and academic profile.</p>
+<p><a href="about/">Open Section →</a></p>
+</div>
 
-  <div class="card">
-    <h3>Modules</h3>
-    <p>Module artefacts, reflections, learning outcomes, and evidence.</p>
-    <a href="modules/">View Modules →</a>
-  </div>
+<div class="card">
+<h3>Modules</h3>
+<p>Module artefacts, reflections, learning outcomes, and supporting evidence.</p>
+<p><a href="modules/">Open Section →</a></p>
+</div>
 
-  <div class="card">
-    <h3>Professional Skills Matrix</h3>
-    <p>Skills development, evidence, and action planning.</p>
-    <a href="skills-matrix/">View Skills Matrix →</a>
-  </div>
+<div class="card">
+<h3>Professional Skills Matrix</h3>
+<p>Skills development, evidence tracking, and action planning across the programme.</p>
+<p><a href="skills-matrix/">Open Section →</a></p>
+</div>
 
-  <div class="card">
-    <h3>Learning Loop</h3>
-    <p>Integrated programme-wide reflection and learning synthesis.</p>
-    <a href="learning-loop/">View Learning Loop →</a>
-  </div>
+<div class="card">
+<h3>Learning Loop</h3>
+<p>Integrated reflection, learning synthesis, and continuous improvement.</p>
+<p><a href="learning-loop/">Open Section →</a></p>
+</div>
 
 </div>
 
@@ -51,10 +52,11 @@ My goal is to strengthen my technical understanding of Artificial Intelligence w
 
 ## Current Programme Stage
 
-**Stage:** Induction  
-**Focus:** Academic orientation, reflective practice, e-Portfolio setup, study planning, and preparation for postgraduate AI study.
+**Stage:** Induction
 
-[View Induction Module](modules/induction/)
+**Focus:** Academic orientation, reflective practice, e-Portfolio development, study planning, and preparation for postgraduate AI study.
+
+[View Induction Module →](modules/induction/)
 
 ---
 
