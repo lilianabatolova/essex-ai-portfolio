@@ -30,7 +30,7 @@ Tutor feedback highlighted both strengths and opportunities for deeper developme
 ### Learning Taken Forward
 This feedback was valuable because it clarified an important distinction:
 
-Postgraduate work is not only about communicating clearly — it is also about demonstrating depth, critique, and academic analysis.
+Postgraduate work is not only about communicating clearly - it is also about demonstrating depth, critique, and academic analysis.
 
 This insight has already influenced how I plan to approach future written work in the programme.
 
