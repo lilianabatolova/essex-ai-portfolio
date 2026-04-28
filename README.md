@@ -1,38 +1,51 @@
 # Liliana Batolova-Tonev  
-### MSc Artificial Intelligence e-Portfolio | University of Essex
+### MSc Artificial Intelligence e-Portfolio  
+#### University of Essex
 
-Welcome to my academic and professional e-Portfolio, developed throughout my MSc Artificial Intelligence journey at the University of Essex.
+Welcome to my e-Portfolio for the MSc Artificial Intelligence programme at the University of Essex.
 
-This portfolio documents:
-
-- module learning outcomes  
-- practical artefacts and project work  
-- reflective learning pieces  
-- professional development and skills growth  
-- programme-wide learning integration  
+This portfolio documents my academic development, practical computing artefacts, reflective learning, and professional growth throughout the programme.
 
 ---
 
-## About Me
-I am an Agile Lead and AI delivery professional focused on enterprise AI enablement, agile transformation, and operationalising AI at scale.
+## Professional Focus
 
-My goal through this MSc is to deepen my technical understanding of Artificial Intelligence while strengthening my ability to lead complex AI initiatives from both strategic and technical perspectives.
+I am an Agile Lead and AI delivery professional focused on enterprise AI enablement, agile transformation, and the operationalisation of AI at scale.
+
+My goal is to strengthen my technical understanding of Artificial Intelligence while connecting academic learning with real-world enterprise AI delivery, governance, and responsible adoption.
 
 ---
 
-## Portfolio Sections
+## Portfolio Structure
 
-### [About](about/)
-Professional profile, background, and learning objectives.
+| Section | Purpose |
+|---|---|
+| [About](about/) | Professional background, learning goals, and profile |
+| [Modules](modules/) | Module artefacts, reflections, learning outcomes, and evidence |
+| [Professional Skills Matrix](skills-matrix/) | Skills development, evidence, and action planning |
+| [Learning Loop](learning-loop/) | Integrated programme-wide reflection and learning synthesis |
+| [Assets](assets/) | Supporting files, diagrams, screenshots, and documents |
 
-### [Modules](modules/)
-Artefacts, reflections, module learning outcomes, and evidence.
+---
 
-### [Professional Skills Matrix](skills-matrix/)
-Continuous tracking of technical, academic, and professional capability development.
+## Current Programme Stage
 
-### [Learning Loop](learning-loop/)
-Integrated reflection across modules and programme-wide growth.
+**Stage:** Induction  
+**Focus:** Academic orientation, reflective practice, e-Portfolio setup, study planning, and preparation for postgraduate AI study.
 
-### [Assets](assets/)
-Supporting diagrams, documents, screenshots, and reference materials.
+[View Induction Module](modules/induction/)
+
+---
+
+## Development Themes
+
+- Building technical AI capability
+- Strengthening programming and computational thinking
+- Connecting AI theory with enterprise implementation
+- Applying responsible and ethical AI principles
+- Developing evidence-based reflective practice
+- Translating academic learning into professional impact
+
+---
+
+> Strategic AI leadership requires more than understanding technology at a high level. It requires the ability to connect technical concepts, organisational realities, ethical considerations, and delivery execution.
