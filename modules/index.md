@@ -4,50 +4,80 @@ title: Modules
 permalink: /modules/
 ---
 
-# Modules
+<section class="page-hero">
 
-This section contains academic work, artefacts, reflections, learning evidence, and professional development captured throughout the MSc Artificial Intelligence programme.
+<p class="eyebrow">Academic Portfolio</p>
 
----
+<h1>Modules</h1>
 
-## Current Modules
+<p class="intro-text">
+This section captures module work, artefacts, reflections, learning evidence, and professional development throughout the MSc Artificial Intelligence programme.
+</p>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; margin-top: 20px;">
+</section>
 
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background: #fafafa;">
+<section class="timeline-section">
+
+<h2>Current Modules</h2>
+
+<div class="theme-grid">
+
+<div class="theme-card">
+<p class="module-label">Completed</p>
 <h3><a href="induction/">Induction</a></h3>
-<p><strong>Focus:</strong> Academic orientation, reflective practice, study planning, e-Portfolio setup, postgraduate learning readiness, and academic writing development.</p>
-<p><strong>Status:</strong> Completed foundation setup / documented</p>
+<p>
+Academic orientation, reflective practice, study planning, e-Portfolio setup, postgraduate learning readiness, and academic writing development.
+</p>
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 12px; padding: 20px; background: #fafafa;">
+<div class="theme-card">
+<p class="module-label active">Active</p>
 <h3><a href="launch-into-computing/">Launch into Computing</a></h3>
-<p><strong>Focus:</strong> Computing foundations, software engineering, algorithmic thinking, data science, Artificial Intelligence fundamentals, cybersecurity, ethics, and professional practice.</p>
-<p><strong>Status:</strong> Active module</p>
+<p>
+Computing foundations, software engineering, algorithmic thinking, data science, AI fundamentals, cybersecurity, ethics, and professional practice.
+</p>
 </div>
 
 </div>
 
----
+</section>
 
-## Portfolio Approach
+<section class="timeline-section">
 
-Each module portfolio includes:
+<h2>Portfolio Approach</h2>
 
-- learning outcomes  
-- artefacts and project work  
-- tutor / peer feedback  
-- reflective writing  
-- meeting notes  
-- professional skills development  
-- supporting evidence and resources  
+<div class="timeline-card">
 
----
+<p>Each module portfolio contains:</p>
 
-## Long-Term Learning Integration
+<ul class="clean-list">
+<li>Learning outcomes</li>
+<li>Artefacts and project work</li>
+<li>Tutor and peer feedback</li>
+<li>Reflective writing</li>
+<li>Meeting notes</li>
+<li>Professional skills development</li>
+<li>Supporting evidence and resources</li>
+</ul>
 
-Each module contributes to a broader learning loop that connects:
+</div>
 
-**technical understanding + reflective growth + professional application + enterprise relevance**
+</section>
 
-This portfolio is designed to document not only academic achievement, but also the development of practical Artificial Intelligence capability and responsible professional leadership in the field.
+<section class="timeline-section">
+
+<h2>Long-Term Learning Integration</h2>
+
+<div class="stage-card">
+
+<p>
+<strong>technical understanding + reflective growth + professional application + enterprise relevance</strong>
+</p>
+
+<p>
+This portfolio documents not only academic achievement, but also the development of practical Artificial Intelligence capability and responsible professional leadership in the field.
+</p>
+
+</div>
+
+</section>
