@@ -1,0 +1,18 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "Modules"
+    url: /modules/
+
+  - title: "Skills Matrix"
+    url: /skills-matrix/
+
+  - title: "Learning Loop"
+    url: /learning-loop/
+
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/liliana-batolova-tonev/
