@@ -22,21 +22,17 @@ My goal through this MSc is to deepen my technical understanding of Artificial I
 
 ## Portfolio Sections
 
-### About
+### [About](about/)
 Professional profile, background, and learning objectives.
 
-### Modules
+### [Modules](modules/)
 Artefacts, reflections, module learning outcomes, and evidence.
 
-### Professional Skills Matrix
+### [Professional Skills Matrix](skills-matrix/)
 Continuous tracking of technical, academic, and professional capability development.
 
-### Learning Loop
+### [Learning Loop](learning-loop/)
 Integrated reflection across modules and programme-wide growth.
 
-### Assets
+### [Assets](assets/)
 Supporting diagrams, documents, screenshots, and reference materials.
-
----
-
-> *“Continuous learning is the operational foundation of meaningful AI leadership.”*
