@@ -1,3 +1,9 @@
+---
+layout: page
+title: Learning Loop
+permalink: /learning-loop/
+---
+
 # Learning Loop
 
 This section provides a holistic reflection on learning across the MSc Artificial Intelligence programme.
