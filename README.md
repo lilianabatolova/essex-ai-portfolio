@@ -1,3 +1,5 @@
+![Banner](assets/banner.jpg)
+
 # Liliana Batolova-Tonev  
 ### MSc Artificial Intelligence e-Portfolio  
 #### University of Essex
