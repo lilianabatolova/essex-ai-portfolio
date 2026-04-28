@@ -4,7 +4,7 @@ This section contains artefacts created during the induction module, including a
 
 ---
 
-## Artefact 01 — Induction Diagnostic
+## Artefact 01 - Induction Diagnostic
 
 ### Objective
 The purpose of the Induction Diagnostic was to evaluate academic readiness for postgraduate study, including written communication, analytical thinking, reflective ability, and understanding of academic expectations.
