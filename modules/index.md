@@ -50,7 +50,9 @@ Each module contributes to a broader learning loop that connects:
 
 **technical understanding + reflective growth + professional application + enterprise relevance**
 
-This portfolio is designed to document not only academic achievement, but also the development of practical Artificial Intelligence capability and responsible professional leadership in the field.### [Launch into Computing](launch-into-computing/)
+This portfolio is designed to document not only academic achievement, but also the development of practical Artificial Intelligence capability and responsible professional leadership in the field.
+
+### [Launch into Computing](launch-into-computing/)
 **Focus areas**
 - computing foundations  
 - software engineering principles  
