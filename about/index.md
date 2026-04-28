@@ -4,60 +4,130 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+<section class="page-hero">
 
-## Professional Background
+<p class="eyebrow">Professional Profile</p>
 
-I am an Agile Lead and AI delivery professional with over a decade of experience leading complex initiatives across agile transformation, enterprise delivery, and operational enablement.
+<h1>About Me</h1>
 
-My work increasingly focuses on Artificial Intelligence - specifically how organisations identify, validate, govern, scale, and operationalise AI solutions in a structured and responsible way.
+<p class="intro-text">
+Agile Lead and AI delivery professional operating at the intersection of strategy, enterprise delivery, operational enablement, and responsible Artificial Intelligence adoption.
+</p>
 
----
+</section>
 
-## Current Focus
+<section class="timeline-section">
 
-My professional focus areas include:
+<h2>Professional Background</h2>
 
-- AI operating model design  
-- Agile leadership in data and AI teams  
-- AI use case lifecycle management  
-- Delivery governance and execution excellence  
-- Responsible AI adoption in enterprise settings  
-- Cross-functional enablement and organisational change  
+<div class="timeline-card">
+<p>
+I bring over a decade of experience leading complex initiatives across agile transformation, enterprise delivery, organisational enablement, and operational excellence.
+</p>
 
----
+<p>
+My work increasingly focuses on Artificial Intelligence — specifically how organisations identify, validate, govern, scale, and operationalise AI solutions in a structured, responsible, and business-relevant way.
+</p>
+</div>
 
-## Why MSc Artificial Intelligence
+</section>
 
+<section class="timeline-section">
+
+<h2>Current Focus</h2>
+
+<div class="theme-grid">
+
+<div class="theme-card">
+<h3>AI Operating Model</h3>
+<p>Designing scalable ways of working for enterprise AI delivery.</p>
+</div>
+
+<div class="theme-card">
+<h3>AI Delivery Leadership</h3>
+<p>Leading agile delivery models for data and AI teams.</p>
+</div>
+
+<div class="theme-card">
+<h3>Responsible AI</h3>
+<p>Embedding governance, structure, and ethical adoption practices.</p>
+</div>
+
+<div class="theme-card">
+<h3>Enablement</h3>
+<p>Driving cross-functional capability building and organisational change.</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="timeline-section">
+
+<h2>Why MSc Artificial Intelligence</h2>
+
+<div class="stage-card">
+
+<p>
 While I have significant experience leading AI initiatives from a strategic and operational perspective, I believe meaningful AI leadership also requires deeper technical understanding.
+</p>
 
-I enrolled in the MSc Artificial Intelligence programme to:
+<p><strong>I enrolled in this MSc to:</strong></p>
 
-- strengthen my technical foundations in AI  
-- build practical computing capability  
-- deepen my understanding of machine learning concepts  
-- connect theory with enterprise implementation  
-- become a stronger bridge between business, delivery, and technical AI disciplines  
+<ul class="clean-list">
+<li>Strengthen technical foundations in AI</li>
+<li>Build practical computing capability</li>
+<li>Deepen understanding of machine learning concepts</li>
+<li>Connect theory with enterprise implementation</li>
+<li>Bridge business, delivery, and technical AI disciplines</li>
+</ul>
 
----
+</div>
 
-## Learning Philosophy
+</section>
 
+<section class="timeline-section">
+
+<h2>Learning Philosophy</h2>
+
+<div class="timeline-card">
+<p>
 My approach to this programme is based on continuous development, disciplined reflection, and practical application.
+</p>
 
-I aim not only to understand Artificial Intelligence academically, but also to translate learning into measurable professional impact.
+<p>
+I aim not only to understand Artificial Intelligence academically, but to translate learning into measurable professional impact.
+</p>
+</div>
 
----
+</section>
 
-## Long-Term Vision
+<section class="timeline-section">
 
-My long-term ambition is to operate at the intersection of:
+<h2>Long-Term Vision</h2>
 
-**Artificial Intelligence + Strategy + Delivery + Responsible Adoption**
+<div class="closing-section">
+<p>
+Artificial Intelligence + Strategy + Delivery + Responsible Adoption
+</p>
 
-helping organisations build AI capability that is technically sound, operationally scalable, and ethically grounded..
+<p style="margin-top:20px; font-size:18px; color:#5f5f5f;">
+Helping organisations build AI capability that is technically sound, operationally scalable, and ethically grounded.
+</p>
+</div>
 
----
+</section>
 
-## Connect
-- [Connect on LinkedIn](https://www.linkedin.com/in/liliana-batolova-tonev/)
+<section class="timeline-section">
+
+<h2>Connect</h2>
+
+<div class="timeline-card">
+<p>
+<a href="https://www.linkedin.com/in/liliana-batolova-tonev/" target="_blank">
+Connect on LinkedIn →
+</a>
+</p>
+</div>
+
+</section>
