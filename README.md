@@ -1,22 +1,22 @@
 ![Banner](assets/banner1.png)
 
-# Liliana Batolova-Tonev
-### MSc Artificial Intelligence e-Portfolio
-#### University of Essex
+<div class="hero-card">
 
-Welcome to my e-Portfolio for the MSc Artificial Intelligence programme at the University of Essex.
+<h1>Liliana Batolova-Tonev</h1>
 
-This portfolio documents my academic development, practical computing artefacts, reflective learning, and professional growth throughout the programme.
+<p class="hero-subtitle">
+MSc Artificial Intelligence e-Portfolio | University of Essex
+</p>
 
----
+<p>
+This e-Portfolio documents my academic development, practical computing artefacts, reflective learning, and professional growth throughout the MSc Artificial Intelligence programme.
+</p>
 
-## Professional Focus
+<p>
+My professional focus is on enterprise AI enablement, agile transformation, responsible AI adoption, and the operationalisation of AI at scale.
+</p>
 
-I am an Agile Lead and AI delivery professional focused on enterprise AI enablement, agile transformation, and the operationalisation of AI at scale.
-
-My goal is to strengthen my technical understanding of Artificial Intelligence while connecting academic learning with real-world enterprise AI delivery, governance, and responsible adoption.
-
----
+</div>
 
 <h2 class="section-title">Portfolio Structure</h2>
 
@@ -48,27 +48,46 @@ My goal is to strengthen my technical understanding of Artificial Intelligence w
 
 </div>
 
----
+<h2 class="section-title">Current Programme Stage</h2>
 
-## Current Programme Stage
+<div class="highlight-box">
 
-**Stage:** Induction
+<p><strong>Stage:</strong> Induction completed / Launch into Computing active</p>
 
-**Focus:** Academic orientation, reflective practice, e-Portfolio development, study planning, and preparation for postgraduate AI study.
+<p><strong>Focus:</strong> Academic orientation, reflective practice, e-Portfolio development, study planning, computing foundations, and preparation for postgraduate AI study.</p>
 
-[View Induction Module →](modules/induction/)
+<p><a href="modules/induction/">View Induction Module →</a></p>
 
----
+</div>
 
-## Development Themes
+<h2 class="section-title">Development Themes</h2>
 
-- Building technical AI capability
-- Strengthening programming and computational thinking
-- Connecting AI theory with enterprise implementation
-- Applying responsible and ethical AI principles
-- Developing evidence-based reflective practice
-- Translating academic learning into professional impact
+<div class="card-grid">
 
----
+<div class="card">
+<h3>Technical AI Capability</h3>
+<p>Building stronger foundations in computing, programming, data, and artificial intelligence.</p>
+</div>
 
-> Strategic AI leadership requires more than understanding technology at a high level. It requires the ability to connect technical concepts, organisational realities, ethical considerations, and delivery execution.
+<div class="card">
+<h3>Responsible AI</h3>
+<p>Connecting AI theory with ethics, governance, transparency, and enterprise accountability.</p>
+</div>
+
+<div class="card">
+<h3>Reflective Practice</h3>
+<p>Using evidence, feedback, and structured reflection to improve academic and professional performance.</p>
+</div>
+
+<div class="card">
+<h3>Professional Impact</h3>
+<p>Translating academic learning into practical AI delivery, enablement, and organisational value.</p>
+</div>
+
+</div>
+
+<div class="quote-box">
+
+Strategic AI leadership requires more than understanding technology at a high level. It requires the ability to connect technical concepts, organisational realities, ethical considerations, and delivery execution.
+
+</div>
