@@ -1,0 +1,17 @@
+title: "Liliana Batolova-Tonev"
+description: "MSc Artificial Intelligence e-Portfolio | University of Essex"
+theme: minima
+
+header_pages:
+  - about/index.md
+  - modules/index.md
+  - skills-matrix/index.md
+  - learning-loop/index.md
+
+show_excerpts: false
+
+minima:
+  skin: auto
+
+github:
+  is_project_page: false
