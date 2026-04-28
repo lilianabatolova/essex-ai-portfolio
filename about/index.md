@@ -55,4 +55,4 @@ helping organisations build AI capability that is technically sound, operational
 
 ## Connect
 
-- LinkedIn: (https://www.linkedin.com/in/liliana-batolova-tonev/)
+- LinkedIn: [Liliana Batolova-Tonev](https://www.linkedin.com/in/liliana-batolova-tonev/)
