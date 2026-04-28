@@ -1,3 +1,9 @@
+---
+layout: page
+title: Professional Skills Matrix
+permalink: /skills-matrix/
+---
+
 # Professional Skills Matrix
 
 This section tracks the development of my professional, technical, and academic capabilities throughout the MSc Artificial Intelligence programme.
