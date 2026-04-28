@@ -1,5 +1,5 @@
 <p>
-<img src="assets/banner_essex.png" alt="Banner">
+<img src="assets/banner_essex.png" alt="banner_essex">
 </p>
 
 <div class="hero-card">
