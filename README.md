@@ -1,4 +1,4 @@
-![Banner](assets/banner.jpg)
+![Banner](assets/banner.png)
 
 # Liliana Batolova-Tonev  
 ### MSc Artificial Intelligence e-Portfolio  
