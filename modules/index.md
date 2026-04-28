@@ -1,46 +1,83 @@
-# Modules
+# Launch into Computing
 
-This section contains academic work, artefacts, reflections, learning evidence, and professional development captured throughout the MSc Artificial Intelligence programme.
-
----
-
-## Current Module
-
-### [Induction](induction/)
-**Focus areas**
-- academic orientation  
-- reflective practice  
-- study planning  
-- e-Portfolio setup  
-- postgraduate learning readiness  
+This section documents my learning, artefacts, reflections, feedback, and professional development throughout the Launch into Computing module.
 
 ---
 
-## Future Modules
+## Module Overview
 
-Upcoming module entries will be added progressively throughout the programme, each containing:
+Launch into Computing provides a broad introduction to modern computing disciplines and establishes the foundational technical, analytical, and professional skills required for postgraduate study in Artificial Intelligence.
 
-- learning outcomes  
-- artefacts  
-- tutor / peer feedback  
-- reflective pieces  
-- meeting notes  
-- professional skills updates  
-- supporting evidence  
+The module combines theoretical understanding with practical application across multiple computing domains relevant to enterprise technology and digital transformation.
 
 ---
 
-> Each module contributes to a broader learning loop, connecting technical understanding, reflective growth, and professional application.# Modules
+## Core Learning Areas
 
-This section contains module work, artefacts, reflections, learning evidence, and professional development captured throughout the MSc Artificial Intelligence programme.
+### Computing Foundations
+- logic and computational thinking  
+- algorithms and problem solving  
+- digital systems fundamentals  
+- enterprise computing landscapes  
 
-## Module Portfolio
+### Software Engineering
+- software design principles  
+- implementation methodologies  
+- functional and non-functional requirements  
+- systems thinking in software delivery  
 
-### [Induction](induction/)
-Academic orientation, reflective practice, study planning, and e-Portfolio setup.
+### Artificial Intelligence
+- AI principles and implementation foundations  
+- opportunities and limitations of AI  
+- business applications of Artificial Intelligence  
+- future developments in intelligent systems  
+
+### Data Science
+- data handling and processing concepts  
+- storage solutions  
+- big data foundations  
+- analytical thinking and data-driven decision making  
+
+### Cybersecurity
+- cybersecurity principles  
+- enterprise risk management  
+- security processes and controls  
+- ethical and professional responsibilities in computing  
+
+### Professional & Critical Skills
+- critical evaluation of methodologies and tools  
+- evidence-based argumentation  
+- synthesis of information from multiple sources  
+- reflective learning and personal development  
+- legal, ethical, and social implications of technology  
+- equality, diversity, and inclusion in computing  
 
 ---
 
-## Upcoming Modules
+## Module Structure
 
-Future modules will be added here as the programme progresses.
+## Seminar Themes
+1. Foundations of Computing and Digital Systems  
+2. Principles of Computer Science and Algorithmic Thinking  
+3. Software Engineering and Development Methodologies  
+4. Data Science, Storage Solutions, and Big Data Processing  
+5. Principles of Artificial Intelligence and Its Applications  
+6. Principles of Cybersecurity, Risk Management, and Ethical Hacking  
+
+---
+
+## Artefacts
+
+[View Artefacts](artefacts/)
+
+## Reflection
+
+[View Reflection](reflection/)
+
+## Meeting Notes
+
+[View Meeting Notes](meeting-notes/)
+
+## Skills Update
+
+[View Skills Update](skills-update/)
