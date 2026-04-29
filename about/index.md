@@ -26,7 +26,7 @@ I bring over a decade of experience leading complex initiatives across agile tra
 </p>
 
 <p>
-My work increasingly focuses on Artificial Intelligence — specifically how organisations identify, validate, govern, scale, and operationalise AI solutions in a structured, responsible, and business-relevant way.
+My work increasingly focuses on Artificial Intelligence - specifically how organisations identify, validate, govern, scale, and operationalise AI solutions in a structured, responsible, and business-relevant way.
 </p>
 </div>
 
