@@ -245,3 +245,74 @@ h1 {
     display: none;
   }
 }
+
+/* Assignment / project template enhancements */
+
+.code-panel {
+  background: #15120f;
+  color: #f6efe5;
+  border-radius: 24px;
+  padding: 24px;
+  overflow-x: auto;
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.18);
+  border: 1px solid rgba(196, 151, 82, 0.25);
+}
+
+.code-panel code {
+  font-family: "Courier New", monospace;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.evidence-list {
+  display: grid;
+  gap: 18px;
+  margin-top: 24px;
+}
+
+.evidence-item {
+  background: rgba(255, 255, 255, 0.58);
+  border: 1px solid rgba(40, 30, 20, 0.08);
+  border-radius: 22px;
+  padding: 22px;
+  box-shadow: 0 14px 35px rgba(40, 30, 20, 0.06);
+}
+
+.evidence-item strong {
+  display: block;
+  margin-bottom: 8px;
+  color: #1f1a14;
+}
+
+.feedback-box {
+  background: linear-gradient(135deg, rgba(196, 151, 82, 0.16), rgba(255, 255, 255, 0.72));
+  border: 1px solid rgba(196, 151, 82, 0.35);
+  border-radius: 26px;
+  padding: 28px;
+  box-shadow: 0 18px 45px rgba(40, 30, 20, 0.08);
+}
+
+.download-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  margin-top: 24px;
+}
+
+.download-card {
+  background: #fffaf2;
+  border: 1px solid rgba(196, 151, 82, 0.28);
+  border-radius: 24px;
+  padding: 24px;
+  box-shadow: 0 16px 38px rgba(40, 30, 20, 0.07);
+}
+
+.download-card h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 900px) {
+  .download-grid {
+    grid-template-columns: 1fr;
+  }
+}
