@@ -1,18 +1,18 @@
 main:
   - title: "Home"
-    url: /essex-ai-portfolio/
+    url: /
 
   - title: "About"
-    url: /essex-ai-portfolio/about/
+    url: /about/
 
   - title: "MSc Journey"
-    url: /essex-ai-portfolio/modules/
+    url: /modules/
 
   - title: "Skills"
-    url: /essex-ai-portfolio/skills-matrix/
+    url: /skills-matrix/
 
   - title: "Reflections"
-    url: /essex-ai-portfolio/learning-loop/
+    url: /learning-loop/
 
   - title: "LinkedIn ↗"
     url: https://www.linkedin.com/in/liliana-batolova-tonev/
