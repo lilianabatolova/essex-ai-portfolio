@@ -5,14 +5,14 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Modules"
+  - title: "MSc Journey"
     url: /modules/
 
-  - title: "Skills Matrix"
+  - title: "Skills"
     url: /skills-matrix/
 
-  - title: "Learning Loop"
+  - title: "Reflections"
     url: /learning-loop/
 
-  - title: "LinkedIn"
+  - title: "LinkedIn ↗"
     url: https://www.linkedin.com/in/liliana-batolova-tonev/
