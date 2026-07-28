@@ -18,7 +18,8 @@ This section captures module work, artefacts, reflections, learning evidence, an
 
 <section class="timeline-section">
 
-<h2>Current Modules</h2>
+<p class="eyebrow">Academic Journey</p>
+<h2>Module Progress</h2>
 
 <div class="theme-grid">
 
@@ -31,34 +32,56 @@ Academic orientation, reflective practice, study planning, e-Portfolio setup, po
 </div>
 
 <div class="theme-card">
-<p class="module-label active">Active</p>
+<p class="module-label">Completed</p>
 <h3><a href="launch-into-computing/">Launch into Computing</a></h3>
 <p>
 Computing foundations, software engineering, algorithmic thinking, data science, AI fundamentals, cybersecurity, ethics, and professional practice.
 </p>
 </div>
 
+<div class="theme-card">
+<p class="module-label active">Current Module</p>
+<h3><a href="understanding-artificial-intelligence/">Understanding Artificial Intelligence</a></h3>
+<p>
+Artificial Intelligence foundations, historical development, intelligent agents, search strategies, machine learning concepts, ethical considerations, and practical AI solution development.
+</p>
+</div>
+
+<div class="theme-card">
+<p class="module-label">Upcoming</p>
+<h3>Future Modules</h3>
+<p>
+Additional MSc modules will be added as the programme progresses, together with learning evidence, reflections, technical work, and professional application.
+</p>
+</div>
+
 </div>
 
 </section>
 
 <section class="timeline-section">
 
-<h2>Portfolio Approach</h2>
+<p class="eyebrow">Portfolio Structure</p>
+<h2>How Module Evidence Is Organised</h2>
 
 <div class="timeline-card">
 
-<p>Each module portfolio contains:</p>
+<p>Each module portfolio may include:</p>
 
 <ul class="clean-list">
-<li>Learning outcomes</li>
-<li>Artefacts and project work</li>
+<li>Module overview and learning outcomes</li>
+<li>Learning reflections and development notes</li>
+<li>Practical exercises, code, and technical artefacts</li>
+<li>Selected discussion contributions</li>
 <li>Tutor and peer feedback</li>
-<li>Reflective writing</li>
-<li>Meeting notes</li>
 <li>Professional skills development</li>
-<li>Supporting evidence and resources</li>
+<li>Responsible AI and ethical considerations</li>
+<li>Application of learning to enterprise AI practice</li>
 </ul>
+
+<p>
+Only material that is appropriate for public sharing is included. Copyrighted university content, confidential company information, and restricted assessment material are not published.
+</p>
 
 </div>
 
@@ -66,16 +89,17 @@ Computing foundations, software engineering, algorithmic thinking, data science,
 
 <section class="timeline-section">
 
-<h2>Long-Term Learning Integration</h2>
+<p class="eyebrow">Long-Term Development</p>
+<h2>Learning Integration</h2>
 
 <div class="stage-card">
 
 <p>
-<strong>technical understanding + reflective growth + professional application + enterprise relevance</strong>
+<strong>Technical understanding + reflective growth + professional application + enterprise relevance</strong>
 </p>
 
 <p>
-This portfolio documents not only academic achievement, but also the development of practical Artificial Intelligence capability and responsible professional leadership in the field.
+This portfolio documents not only academic progress, but also the development of practical Artificial Intelligence capability, responsible professional judgement, and leadership in enterprise AI.
 </p>
 
 </div>
